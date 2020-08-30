@@ -244,8 +244,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cubePrefab: {fileID: 7667001285277708695, guid: 7e216ddb6a0b5d14b81dd6a3a30fd5e7,
     type: 3}
-  xSize: 40
-  ySize: 40
+  xSize: 200
+  ySize: 200
   spacing: 1
 --- !u!4 &1524938305
 Transform:
